@@ -1,0 +1,25 @@
+{
+  "name": "3jsraspi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youriiiiiiiiiiii/3jsRaspi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youriiiiiiiiiiii/3jsRaspi/issues"
+  },
+  "homepage": "https://github.com/youriiiiiiiiiiii/3jsRaspi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0",
+    "three": "^0.126.1"
+  }
+}
